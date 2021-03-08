@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "backstage-react-ssr"
+  description: "scaffolder-test-3"
+  annotations:
+    github.com/project-slug: moatazelmohtaseb/backstage-react-ssr
+    backstage.io/techdocs-ref: url:https://github.com/moatazelmohtaseb/backstage-react-ssr
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "user:moatazelmohtaseb"

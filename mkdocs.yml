@@ -1,0 +1,8 @@
+site_name: "backstage-react-ssr"
+site_description: "scaffolder-test-3"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
