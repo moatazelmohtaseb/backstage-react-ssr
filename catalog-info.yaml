@@ -7,6 +7,6 @@ metadata:
     github.com/project-slug: moatazelmohtaseb/backstage-react-ssr
     backstage.io/techdocs-ref: url:https://github.com/moatazelmohtaseb/backstage-react-ssr
 spec:
-  type: widget
+  type: website
   lifecycle: experimental
   owner: "user:moatazelmohtaseb"
